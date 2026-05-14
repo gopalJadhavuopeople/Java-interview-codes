@@ -18,3 +18,5 @@ package Year2026.JanStudy.InheritanceWorking;
     }
 
 }
+
+//this is first line added in project repo
